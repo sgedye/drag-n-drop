@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/drag-n-drop/static/css/main.e8a939f1.chunk.css",
+    "main.js": "/drag-n-drop/static/js/main.a3407812.chunk.js",
+    "main.js.map": "/drag-n-drop/static/js/main.a3407812.chunk.js.map",
+    "runtime-main.js": "/drag-n-drop/static/js/runtime-main.d52fc905.js",
+    "runtime-main.js.map": "/drag-n-drop/static/js/runtime-main.d52fc905.js.map",
+    "static/js/2.20cd5536.chunk.js": "/drag-n-drop/static/js/2.20cd5536.chunk.js",
+    "static/js/2.20cd5536.chunk.js.map": "/drag-n-drop/static/js/2.20cd5536.chunk.js.map",
+    "index.html": "/drag-n-drop/index.html",
+    "precache-manifest.75575f5880b0e99084fbad2c2515f6ae.js": "/drag-n-drop/precache-manifest.75575f5880b0e99084fbad2c2515f6ae.js",
+    "service-worker.js": "/drag-n-drop/service-worker.js",
+    "static/css/main.e8a939f1.chunk.css.map": "/drag-n-drop/static/css/main.e8a939f1.chunk.css.map",
+    "static/js/2.20cd5536.chunk.js.LICENSE.txt": "/drag-n-drop/static/js/2.20cd5536.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d52fc905.js",
+    "static/js/2.20cd5536.chunk.js",
+    "static/css/main.e8a939f1.chunk.css",
+    "static/js/main.a3407812.chunk.js"
+  ]
+}
