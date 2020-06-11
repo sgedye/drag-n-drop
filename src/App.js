@@ -6,7 +6,7 @@ function App() {
   const draggableCards = [true, false, true, true, false]
   return (
     <div className="App">
-       <h1 style={{"textAlign": "center"}}>Drag and Drop in React</h1>
+       <h1 style={{"textAlign": "center", "font-size": "2.4em", "text-shadow": "-1px -1px 1px white, 5px 4px 8px white"}}>Drag and Drop in React</h1>
        <main className="flexbox">
           <Board id="board_1" className="board">
           {draggableCards.map((element,index) => {
