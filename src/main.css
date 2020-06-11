@@ -1,5 +1,5 @@
 body {
-  margin: 0;
+  margin: 50px 0 0 0;
   font-family: 'Roboto', 'Oxygen', sans-serif;
   background-color: burlywood;
 }
@@ -21,6 +21,7 @@ body {
   max-width: 300px;
   min-height: 400px;
   background-color: crimson;
+  border-radius: 25px;
 }
 
 .flexbox .card {
@@ -29,6 +30,9 @@ body {
   cursor: move;
   cursor: grab;
   margin-bottom: 15px;
+}
+.flexbox .card:first-of-type {
+  border-radius: 25px 25px 0 0;
 }
 .flexbox .card:active {
   cursor: grabbing;
